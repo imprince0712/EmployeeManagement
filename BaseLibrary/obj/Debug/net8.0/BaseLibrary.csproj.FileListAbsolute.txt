@@ -1,6 +1,7 @@
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs

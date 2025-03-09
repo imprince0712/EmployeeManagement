@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Data\\Migrations\\20250308073920_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerLibrary\\Data\\Migrations\\20250308073920_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E5222-B844-4B0E-BED8-29D98904F49D}|Server\\Server.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{666E5222-B844-4B0E-BED8-29D98904F49D}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E5222-B844-4B0E-BED8-29D98904F49D}|Server\\Server.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E5222-B844-4B0E-BED8-29D98904F49D}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C0911-05FB-4A1A-88D2-FD698F5CC3E7}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B67C0911-05FB-4A1A-88D2-FD698F5CC3E7}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E5222-B844-4B0E-BED8-29D98904F49D}|Server\\Server.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{666E5222-B844-4B0E-BED8-29D98904F49D}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C0911-05FB-4A1A-88D2-FD698F5CC3E7}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67C0911-05FB-4A1A-88D2-FD698F5CC3E7}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\dtos\\acountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\acountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\generaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\generaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\pradeep singh\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691E5CF5-C4B5-4FCE-9E0E-C032E82206BC}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250308073920_First.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Data\\Migrations\\20250308073920_First.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20250308073920_First.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Data\\Migrations\\20250308073920_First.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20250308073920_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:39:21.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerLibrary",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.csproj",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeToolTip": "ServerLibrary\\ServerLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T06:59:38.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T03:28:58.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T03:14:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T03:10:00.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T02:45:57.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T02:45:49.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AcountBase.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\AcountBase.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AcountBase.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\AcountBase.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\AcountBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T02:41:55.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T02:31:36.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Department.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:55:51.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T02:53:42.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GeneralDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\GeneralDepartment.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\GeneralDepartment.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\GeneralDepartment.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\GeneralDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:55:40.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Branch.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Branch.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:57:23.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Town.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Town.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Town.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Town.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Town.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:57:44.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:14:57.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Employee.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:14:36.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\Pradeep Singh\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Class1.cs",
+              "RelativeToolTip": "BaseLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:47:37.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

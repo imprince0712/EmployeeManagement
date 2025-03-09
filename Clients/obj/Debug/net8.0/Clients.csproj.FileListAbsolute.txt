@@ -1,3 +1,4 @@
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.pdb
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.wasm
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
@@ -263,6 +264,7 @@ C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.wasm.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
@@ -420,6 +422,7 @@ C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\Clients.staticwebassets.endpoints.json
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\Clients.dll
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\Clients.pdb
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -632,6 +635,7 @@ C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\Clients.csproj.CoreCompileInputs.cache
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\Clients.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\Clients.sourcelink.json
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\webcil\AutoMapper.wasm
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -833,6 +837,7 @@ C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\blazor.build.boot-extension.json
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\blazor.boot.json
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\hyhxubus9w-mv535bwyet.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\aajzjdewe6-totk3ghnq9.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\y16tfcc37l-9hthb25ooi.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\kxmw1iuzpo-7vog68joiv.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\il2mdqa8mt-3aide0k5eo.gz
@@ -1034,13 +1039,13 @@ C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\i3o1pj5pe1-tptq2av103.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\pfg9vm9k8f-lfu7j35m59.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\fyah5igf2t-oyz0vx2fzb.gz
-C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\bnlkfqenue-mph7faey2x.gz
-C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\f83mmgfyqw-976sqjbwwb.gz
-C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\ugky1o3g8h-furbbw6jty.gz
-C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\uvyus80w6i-9q3y33p9mp.gz
-C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\lisi16rszx-6x1rhno0zt.gz
-C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\8nxa6wl7u8-fry5re1jxr.gz
-C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\k2z54d2qao-zok3h1551b.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\bnlkfqenue-7iyq4r1xh4.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\f83mmgfyqw-rankucjjea.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\ugky1o3g8h-y7ggrbpt4s.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\uvyus80w6i-id3dcer5qb.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\lisi16rszx-3dx3py1yic.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\8nxa6wl7u8-h49xenanej.gz
+C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\compressed\k2z54d2qao-ucyifji2m3.gz
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Pradeep Singh\source\repos\DemoEmployeeManagementSystemSolution\Clients\obj\Debug\net8.0\staticwebassets.build.endpoints.json
